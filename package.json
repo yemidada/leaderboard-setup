@@ -6,22 +6,22 @@
   "scripts": {
     "dev": "webpack --mode development",
     "build": "webpack --mode production",
-    "serve": "webpack serve"
+    "start": "webpack serve --open"
   },
   "jest": {
     "testEnvironment": "jsdom"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yemidada/todo-list.git"
+    "url": "git+https://github.com/yemidada/leaderboard-setup.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yemidada/todo-list/issues"
+    "url": "https://github.com/yemidada/leaderboard-setup/issues"
   },
-  "homepage": "https://github.com/yemidada/todo-list#readme",
+  "homepage": "https://github.com/yemidada/leaderboard-setup#readme",
   "devDependencies": {
     "@babel/plugin-transform-modules-commonjs": "^7.22.5",
     "babel-eslint": "^10.1.0",
