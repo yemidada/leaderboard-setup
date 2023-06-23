@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3><b>Leaderboard: hit the API</b></h3>
+  <h3><b>Leaderboard: final touches</b></h3>
 
 </div>
 
@@ -16,6 +16,7 @@
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Usage](#usage)
+  - [🚀 Live Demo](#live-demo)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -25,9 +26,9 @@
 - [📝 License](#license)
 
 
-# 📖 Leaderboard: hit the API <a name="about-project"></a>
+# 📖 Leaderboard: final touches<a name="about-project"></a>
 
-**In this project, I will continue working on the Leaderboard list app, sending and receiving data from/to the Leaderboard API.**
+**In this project, I understand how to use medium-fidelity wireframes to create a UI and style the design with css style.**
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -59,6 +60,9 @@ The various stacks used for the project includes the following
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://yemidada.github.io/leaderboard-setup/dist/)
 
 
 ## 💻 Getting Started <a name="getting-started"></a>
