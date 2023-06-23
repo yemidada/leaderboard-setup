@@ -28,7 +28,7 @@
 
 # 📖 Leaderboard: final touches<a name="about-project"></a>
 
-**In this project, I Understand how to use medium-fidelity wireframes to create a UI.**
+**In this project, I understand how to use medium-fidelity wireframes to create a UI.**
 
 
 ## 🛠 Built With <a name="built-with"></a>
