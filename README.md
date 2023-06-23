@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <h3><b>Leaderboard: setup project</b></h3>
+  <h3><b>Leaderboard: hit the API</b></h3>
 
 </div>
 
@@ -25,9 +25,9 @@
 - [📝 License](#license)
 
 
-# 📖 Leaderboard: setup project <a name="about-project"></a>
+# 📖 Leaderboard: hit the API <a name="about-project"></a>
 
-**In this project, I will set up a JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules. I should develop a first working version of the app following a wireframe, but without styling - just focus on functionality. In following activities, I will consume the Leaderboard API using JavaScript async and await and add some styling.**
+**In this project, I will continue working on the Leaderboard list app, sending and receiving data from/to the Leaderboard API.**
 
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -52,10 +52,10 @@ The various stacks used for the project includes the following
 
 ### Key Features <a name="key-features"></a>
 
-- **Use callbacks and promises.**
-- **Learn how to use proper ES6 syntax.**
-- **Use ES6 modules to write modular JavaScript.**
-- **Use webpack to bundle JavaScript.**
+- **Send and receive data from an API.**
+- **Use API documentation.**
+- **Understand and use JSON.**
+- **Make JavaScript code asynchronous.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
